@@ -1,0 +1,12 @@
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\VB\SimplePDFViewer\bin\x86\Debug\SimplePDFViewer.exe.config
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\VB\SimplePDFViewer\bin\x86\Debug\SimplePDFViewer.exe
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\VB\SimplePDFViewer\bin\x86\Debug\SimplePDFViewer.pdb
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\VB\SimplePDFViewer\bin\x86\Debug\SimplePDFViewer.xml
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\VB\SimplePDFViewer\bin\x86\Debug\Foxit.PDF.Viewer.40.x86.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\VB\SimplePDFViewer\bin\x86\Debug\Foxit.PDF.Viewer.40.x86.xml
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\VB\SimplePDFViewer\obj\x86\Debug\SimplePDFViewer.Form1.resources
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\VB\SimplePDFViewer\obj\x86\Debug\SimplePDFViewer.Resources.resources
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\VB\SimplePDFViewer\obj\x86\Debug\SimplePDFViewer_VB.vbproj.GenerateResource.Cache
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\VB\SimplePDFViewer\obj\x86\Debug\SimplePDFViewer.exe
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\VB\SimplePDFViewer\obj\x86\Debug\SimplePDFViewer.xml
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\VB\SimplePDFViewer\obj\x86\Debug\SimplePDFViewer.pdb

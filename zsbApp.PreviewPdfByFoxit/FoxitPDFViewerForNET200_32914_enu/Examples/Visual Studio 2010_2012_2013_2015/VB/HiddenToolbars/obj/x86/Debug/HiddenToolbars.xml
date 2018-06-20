@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HiddenToolbars
+</name>
+</assembly>
+<members>
+<member name="P:HiddenToolbars.My.Resources.Form1.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HiddenToolbars.My.Resources.Form1.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:HiddenToolbars.My.Resources.Form1.FoxitPDF">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:HiddenToolbars.My.Resources.Form1.openFileDialog1_TrayLocation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=17,Y=17}.
+</summary>
+</member><member name="P:HiddenToolbars.My.Resources.Form1.toolStrip1_TrayLocation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=157,Y=17}.
+</summary>
+</member><member name="T:HiddenToolbars.My.Resources.Form1">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:HiddenToolbars.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HiddenToolbars.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:HiddenToolbars.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

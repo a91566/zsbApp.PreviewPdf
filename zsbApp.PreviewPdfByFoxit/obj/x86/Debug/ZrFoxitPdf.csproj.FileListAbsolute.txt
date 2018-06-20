@@ -1,0 +1,11 @@
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\bin\Debug\ZrFoxitPdf.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\bin\Debug\ZrFoxitPdf.pdb
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\bin\Debug\Foxit.PDF.Viewer.40.x64.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\obj\x86\Debug\ZrFoxitPdf.csprojResolveAssemblyReference.cache
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\obj\x86\Debug\ZrFoxitPdf.Form1.resources
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\obj\x86\Debug\ZrFoxitPdf.Properties.Resources.resources
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\obj\x86\Debug\ZrFoxitPdf.csproj.GenerateResource.Cache
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\obj\x86\Debug\ZrFoxitPdf.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\obj\x86\Debug\ZrFoxitPdf.pdb
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\Bin\ZrFoxitPdf.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\Bin\ZrFoxitPdf.pdb

@@ -1,0 +1,11 @@
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdfByAdobeCOM\bin\Debug\zsbApp.PreviewPdfByAdobeCOM.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdfByAdobeCOM\bin\Debug\zsbApp.PreviewPdfByAdobeCOM.pdb
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdfByAdobeCOM\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdfByAdobeCOM\bin\Debug\zsbApp.PreviewPdf.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdfByAdobeCOM\bin\Debug\Interop.AcroPDFLib.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdfByAdobeCOM\bin\Debug\zsbApp.PreviewPdf.pdb
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdfByAdobeCOM\obj\Debug\zsbApp.PreviewPdfByAdobeCOM.csprojResolveAssemblyReference.cache
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdfByAdobeCOM\obj\Debug\zsbApp.PreviewPdfByAdobeCOM.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdfByAdobeCOM\obj\Debug\zsbApp.PreviewPdfByAdobeCOM.pdb
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\Bin\zsbApp.PreviewPdfByAdobeCOM.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\Bin\zsbApp.PreviewPdfByAdobeCOM.pdb

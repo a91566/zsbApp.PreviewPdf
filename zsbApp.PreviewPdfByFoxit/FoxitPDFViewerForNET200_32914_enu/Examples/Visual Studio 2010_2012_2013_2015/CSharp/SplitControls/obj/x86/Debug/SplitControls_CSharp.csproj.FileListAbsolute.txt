@@ -1,0 +1,9 @@
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\CSharp\SplitControls\bin\Debug\SplitControls.exe
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\CSharp\SplitControls\bin\Debug\SplitControls.pdb
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\CSharp\SplitControls\bin\Debug\Foxit.PDF.Viewer.40.x86.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\CSharp\SplitControls\bin\Debug\Foxit.PDF.Viewer.40.x86.xml
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\CSharp\SplitControls\obj\x86\Debug\SplitControls.Form1.resources
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\CSharp\SplitControls\obj\x86\Debug\SplitControls.Properties.Resources.resources
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\CSharp\SplitControls\obj\x86\Debug\SplitControls_CSharp.csproj.GenerateResource.Cache
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\CSharp\SplitControls\obj\x86\Debug\SplitControls.exe
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\FoxitPDFViewerForNET200_32914_enu\Examples\Visual Studio 2010_2012_2013_2015\CSharp\SplitControls\obj\x86\Debug\SplitControls.pdb

@@ -1,0 +1,15 @@
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\Bin\zsbApp.PreviewPdf.Test.exe.config
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf\obj\x86\Debug\zsbApp.PreviewPdf.Test.csprojResolveAssemblyReference.cache
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf\obj\x86\Debug\zsbApp.PreviewPdf.Test.FormAdobe.resources
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf\obj\x86\Debug\zsbApp.PreviewPdf.Test.Properties.Resources.resources
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf\obj\x86\Debug\zsbApp.PreviewPdf.Test.csproj.GenerateResource.Cache
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\Bin\zsbApp.PreviewPdf.Test.exe
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\Bin\zsbApp.PreviewPdf.Test.pdb
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf\obj\x86\Debug\zsbApp.PreviewPdf.Test.exe
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf\obj\x86\Debug\zsbApp.PreviewPdf.Test.pdb
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf.Test\obj\x86\Debug\zsbApp.PreviewPdf.Test.exe
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf.Test\obj\x86\Debug\zsbApp.PreviewPdf.Test.pdb
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf.Test\obj\x86\Debug\zsbApp.PreviewPdf.Test.csprojResolveAssemblyReference.cache
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf.Test\obj\x86\Debug\zsbApp.PreviewPdf.Test.Properties.Resources.resources
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf.Test\obj\x86\Debug\zsbApp.PreviewPdf.Test.csproj.GenerateResource.Cache
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf.Test\obj\x86\Debug\zsbApp.PreviewPdf.Test.FormTest.resources

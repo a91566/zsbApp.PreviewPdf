@@ -1,0 +1,4 @@
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf\bin\Debug\zsbApp.PreviewPdf.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf\bin\Debug\zsbApp.PreviewPdf.pdb
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf\obj\Debug\zsbApp.PreviewPdf.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf\obj\Debug\zsbApp.PreviewPdf.pdb

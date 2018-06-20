@@ -1,0 +1,10 @@
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\Bin\zsbApp.PreviewPdfByWebBrowser.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\Bin\zsbApp.PreviewPdfByWebBrowser.pdb
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf.ByWebBrowser\obj\x86\Debug\Interop.AcroPDFLib.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf.ByWebBrowser\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf.ByWebBrowser\obj\x86\Debug\zsbApp.PreviewPdfByWebBrowser.csproj.ResolveComReference.cache
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf.ByWebBrowser\obj\x86\Debug\zsbApp.Properties.Resources.resources
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf.ByWebBrowser\obj\x86\Debug\zsbApp.PreviewPdfByWebBrowser.csproj.GenerateResource.Cache
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf.ByWebBrowser\obj\x86\Debug\zsbApp.PreviewPdfByWebBrowser.dll
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf.ByWebBrowser\obj\x86\Debug\zsbApp.PreviewPdfByWebBrowser.pdb
+E:\zsb\System.Personal\Visual Studio 2010\Projects\zsbApp.PreviewPdf\zsbApp.PreviewPdf.ByWebBrowser\obj\x86\Debug\zsbApp.PreviewPdfByWebBrowser.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\obj\x86\Debug\zsbApp.PreviewPdf.Foxit.csprojResolveAssemblyReference.cache
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\obj\x86\Debug\zsbApp.PreviewPdf.Foxit.Form1.resources
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\obj\x86\Debug\zsbApp.PreviewPdf.Foxit.Properties.Resources.resources
+E:\zsb\System.Personal\Visual Studio 2010\Projects\ZrPdf\ZrFoxitPdf\obj\x86\Debug\zsbApp.PreviewPdf.Foxit.csproj.GenerateResource.Cache

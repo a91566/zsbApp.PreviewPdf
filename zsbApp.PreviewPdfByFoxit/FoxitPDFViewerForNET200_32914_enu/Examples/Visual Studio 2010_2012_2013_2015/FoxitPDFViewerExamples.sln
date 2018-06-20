@@ -1,0 +1,98 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePDFViewer_CSharp", "CSharp\SimplePDFViewer\SimplePDFViewer_CSharp.csproj", "{5F39E54F-69EC-4A93-B71C-533F5C70C4E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiddenToolbars_CSharp", "CSharp\HiddenToolbars\HiddenToolbars_CSharp.csproj", "{05CE7478-DF20-4006-BA45-87CC4A71201F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelView_CSharp", "CSharp\ParallelView\ParallelView_CSharp.csproj", "{4916D035-F5B7-45E7-9EC9-B6F5CAC12BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSearchDialog_CSharp", "CSharp\CustomSearchDialog\CustomSearchDialog_CSharp.csproj", "{DE40B699-47BB-46FA-99AE-7984A4274461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomToolStrip_CSharp", "CSharp\CustomToolStrip\CustomToolStrip_CSharp.csproj", "{F3C3413A-23E5-44BA-8461-57D24118576C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitControls_CSharp", "CSharp\SplitControls\SplitControls_CSharp.csproj", "{2FC457D5-3734-4709-ADBB-982134B4C3CF}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomSearchDialog_VB", "VB\CustomSearchDialog\CustomSearchDialog_VB.vbproj", "{D0BC1F2C-6B32-4C81-B99E-3B593B700279}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomToolStrip_VB", "VB\CustomToolStrip\CustomToolStrip_VB.vbproj", "{B3E1E3D1-2A44-4615-8BFF-49E75D8A01F8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HiddenToolbars_VB", "VB\HiddenToolbars\HiddenToolbars_VB.vbproj", "{D8CD0D03-8DC0-4BFE-B908-6C04AE712D98}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ParallelView_VB", "VB\ParallelView\ParallelView_VB.vbproj", "{BD586F62-2C8A-4582-90F7-98CEA3D3FC13}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SimplePDFViewer_VB", "VB\SimplePDFViewer\SimplePDFViewer_VB.vbproj", "{761EEA4D-782E-4436-AE6B-8D432AADA1B7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SplitControls_VB", "VB\SplitControls\SplitControls_VB.vbproj", "{3BA626D3-BF8A-4F5D-BAFB-C436F2CA5F1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFViewerCustomizations_CSharp", "CSharp\PDFViewerCustomizations\PDFViewerCustomizations_CSharp.csproj", "{CFD5BC7B-AABC-42D0-B418-54D58C75F523}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PDFViewerCustomizations_VB", "VB\PDFViewerCustomizations\PDFViewerCustomizations_VB.vbproj", "{5B7CA76C-64EB-4904-B5B4-2BEDD77271BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F39E54F-69EC-4A93-B71C-533F5C70C4E3}.Debug|x86.ActiveCfg = Debug|x86
+		{5F39E54F-69EC-4A93-B71C-533F5C70C4E3}.Debug|x86.Build.0 = Debug|x86
+		{5F39E54F-69EC-4A93-B71C-533F5C70C4E3}.Release|x86.ActiveCfg = Release|x86
+		{5F39E54F-69EC-4A93-B71C-533F5C70C4E3}.Release|x86.Build.0 = Release|x86
+		{05CE7478-DF20-4006-BA45-87CC4A71201F}.Debug|x86.ActiveCfg = Debug|x86
+		{05CE7478-DF20-4006-BA45-87CC4A71201F}.Debug|x86.Build.0 = Debug|x86
+		{05CE7478-DF20-4006-BA45-87CC4A71201F}.Release|x86.ActiveCfg = Release|x86
+		{05CE7478-DF20-4006-BA45-87CC4A71201F}.Release|x86.Build.0 = Release|x86
+		{4916D035-F5B7-45E7-9EC9-B6F5CAC12BF2}.Debug|x86.ActiveCfg = Debug|x86
+		{4916D035-F5B7-45E7-9EC9-B6F5CAC12BF2}.Debug|x86.Build.0 = Debug|x86
+		{4916D035-F5B7-45E7-9EC9-B6F5CAC12BF2}.Release|x86.ActiveCfg = Release|x86
+		{4916D035-F5B7-45E7-9EC9-B6F5CAC12BF2}.Release|x86.Build.0 = Release|x86
+		{DE40B699-47BB-46FA-99AE-7984A4274461}.Debug|x86.ActiveCfg = Debug|x86
+		{DE40B699-47BB-46FA-99AE-7984A4274461}.Debug|x86.Build.0 = Debug|x86
+		{DE40B699-47BB-46FA-99AE-7984A4274461}.Release|x86.ActiveCfg = Release|x86
+		{DE40B699-47BB-46FA-99AE-7984A4274461}.Release|x86.Build.0 = Release|x86
+		{F3C3413A-23E5-44BA-8461-57D24118576C}.Debug|x86.ActiveCfg = Debug|x86
+		{F3C3413A-23E5-44BA-8461-57D24118576C}.Debug|x86.Build.0 = Debug|x86
+		{F3C3413A-23E5-44BA-8461-57D24118576C}.Release|x86.ActiveCfg = Release|x86
+		{F3C3413A-23E5-44BA-8461-57D24118576C}.Release|x86.Build.0 = Release|x86
+		{2FC457D5-3734-4709-ADBB-982134B4C3CF}.Debug|x86.ActiveCfg = Debug|x86
+		{2FC457D5-3734-4709-ADBB-982134B4C3CF}.Debug|x86.Build.0 = Debug|x86
+		{2FC457D5-3734-4709-ADBB-982134B4C3CF}.Release|x86.ActiveCfg = Release|x86
+		{2FC457D5-3734-4709-ADBB-982134B4C3CF}.Release|x86.Build.0 = Release|x86
+		{D0BC1F2C-6B32-4C81-B99E-3B593B700279}.Debug|x86.ActiveCfg = Debug|x86
+		{D0BC1F2C-6B32-4C81-B99E-3B593B700279}.Debug|x86.Build.0 = Debug|x86
+		{D0BC1F2C-6B32-4C81-B99E-3B593B700279}.Release|x86.ActiveCfg = Release|x86
+		{D0BC1F2C-6B32-4C81-B99E-3B593B700279}.Release|x86.Build.0 = Release|x86
+		{B3E1E3D1-2A44-4615-8BFF-49E75D8A01F8}.Debug|x86.ActiveCfg = Debug|x86
+		{B3E1E3D1-2A44-4615-8BFF-49E75D8A01F8}.Debug|x86.Build.0 = Debug|x86
+		{B3E1E3D1-2A44-4615-8BFF-49E75D8A01F8}.Release|x86.ActiveCfg = Release|x86
+		{B3E1E3D1-2A44-4615-8BFF-49E75D8A01F8}.Release|x86.Build.0 = Release|x86
+		{D8CD0D03-8DC0-4BFE-B908-6C04AE712D98}.Debug|x86.ActiveCfg = Debug|x86
+		{D8CD0D03-8DC0-4BFE-B908-6C04AE712D98}.Debug|x86.Build.0 = Debug|x86
+		{D8CD0D03-8DC0-4BFE-B908-6C04AE712D98}.Release|x86.ActiveCfg = Release|x86
+		{D8CD0D03-8DC0-4BFE-B908-6C04AE712D98}.Release|x86.Build.0 = Release|x86
+		{BD586F62-2C8A-4582-90F7-98CEA3D3FC13}.Debug|x86.ActiveCfg = Debug|x86
+		{BD586F62-2C8A-4582-90F7-98CEA3D3FC13}.Debug|x86.Build.0 = Debug|x86
+		{BD586F62-2C8A-4582-90F7-98CEA3D3FC13}.Release|x86.ActiveCfg = Release|x86
+		{BD586F62-2C8A-4582-90F7-98CEA3D3FC13}.Release|x86.Build.0 = Release|x86
+		{761EEA4D-782E-4436-AE6B-8D432AADA1B7}.Debug|x86.ActiveCfg = Debug|x86
+		{761EEA4D-782E-4436-AE6B-8D432AADA1B7}.Debug|x86.Build.0 = Debug|x86
+		{761EEA4D-782E-4436-AE6B-8D432AADA1B7}.Release|x86.ActiveCfg = Release|x86
+		{761EEA4D-782E-4436-AE6B-8D432AADA1B7}.Release|x86.Build.0 = Release|x86
+		{3BA626D3-BF8A-4F5D-BAFB-C436F2CA5F1F}.Debug|x86.ActiveCfg = Debug|x86
+		{3BA626D3-BF8A-4F5D-BAFB-C436F2CA5F1F}.Debug|x86.Build.0 = Debug|x86
+		{3BA626D3-BF8A-4F5D-BAFB-C436F2CA5F1F}.Release|x86.ActiveCfg = Release|x86
+		{3BA626D3-BF8A-4F5D-BAFB-C436F2CA5F1F}.Release|x86.Build.0 = Release|x86
+		{CFD5BC7B-AABC-42D0-B418-54D58C75F523}.Debug|x86.ActiveCfg = Debug|x86
+		{CFD5BC7B-AABC-42D0-B418-54D58C75F523}.Debug|x86.Build.0 = Debug|x86
+		{CFD5BC7B-AABC-42D0-B418-54D58C75F523}.Release|x86.ActiveCfg = Release|x86
+		{CFD5BC7B-AABC-42D0-B418-54D58C75F523}.Release|x86.Build.0 = Release|x86
+		{5B7CA76C-64EB-4904-B5B4-2BEDD77271BB}.Debug|x86.ActiveCfg = Debug|x86
+		{5B7CA76C-64EB-4904-B5B4-2BEDD77271BB}.Debug|x86.Build.0 = Debug|x86
+		{5B7CA76C-64EB-4904-B5B4-2BEDD77271BB}.Release|x86.ActiveCfg = Release|x86
+		{5B7CA76C-64EB-4904-B5B4-2BEDD77271BB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
